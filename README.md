@@ -12,7 +12,6 @@ It is Keras implementation based on [Original Paper(PDF)](http://www.mit.edu/~jo
     - [How to predict Quora Question Pairs using Siamese Manhattan LSTM](https://medium.com/mlreview/implementing-malstm-on-kaggles-quora-question-pairs-competition-8b31b0b16a07)
 
 
-You should put all data files to `./data` directory.
 
 ## How to Run
 ### Training
